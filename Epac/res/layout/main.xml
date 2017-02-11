@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+<LinearLayout
+    android:id="@+id/widget39"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/gradient_bg" >
+
+    
+    <ImageButton
+        android:id="@+id/widget35"
+        android:background="@null"
+        android:scaleType="fitXY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/epac_site9" />
+
+    <TextView
+        android:id="@+id/widget36"
+        android:layout_width="fill_parent"
+        android:layout_height="61dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:padding="4dp"
+        android:text="@string/hello_and_welcome_to_environment_protection_and_awareness_club_epac_of_bits_pilani_goa_campus"
+        android:textStyle="bold"
+        android:typeface="serif" 
+        android:textColor="#000"
+        />
+
+    <TextView
+        android:id="@+id/widget37"
+        android:layout_width="match_parent"
+        android:layout_height="199dp"
+        android:gravity="center"
+        android:text="@string/description"
+        android:typeface="sans"
+        android:textColor="#000" />
+
+    <TableLayout
+        android:id="@+id/tableLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+   
+            <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/view_articles" android:layout_weight="1"/>
+            
+            <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/members" android:layout_weight="1"/>
+        
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact_us" android:layout_weight="1"/>
+        
+            <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/photo_gallery" android:layout_weight="1"/>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </TableRow>
+    </TableLayout>
+   
+
+</LinearLayout>
+</ScrollView>

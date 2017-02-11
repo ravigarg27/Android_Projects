@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	android:id="@+id/widget32"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<TableLayout
+	android:id="@+id/widget33"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:layout_gravity="center_vertical"
+	>
+	<TableRow
+		android:id="@+id/widget36"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		>
+<TextView
+	android:id="@+id/widget37"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:padding="5dp"
+	android:text="@string/name_of_school" />
+<EditText
+	android:id="@+id/widget38"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:textSize="18sp" android:minWidth="50dp" android:layout_weight="1"/>
+</TableRow>
+
+<TableRow
+	android:id="@+id/widget39"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/widget41"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/school_address" />
+<EditText
+	android:id="@+id/widget42"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:textSize="18sp" android:layout_weight="1"/>
+</TableRow>
+<TableRow
+	android:id="@+id/widget43"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/widget47"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/school_phonenumber" />
+<EditText
+	android:id="@+id/widget48"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:inputType="phone"
+	android:textSize="18sp" android:layout_weight="1"/>
+</TableRow>
+<TableRow
+	android:id="@+id/widget44"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/widget50"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Team Leader's Name" />
+<EditText
+	android:id="@+id/widget49"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	
+	android:textSize="18sp" android:layout_weight="1"/>
+</TableRow>
+<TableRow
+	android:id="@+id/widget45"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal">
+<TextView
+	android:id="@+id/widget51"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Email Id" />
+<EditText
+	android:id="@+id/widget52"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	
+	android:textSize="18sp" android:layout_weight="1"/>
+</TableRow>
+<TableRow
+	android:id="@+id/widget46"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal">
+<Button
+	android:id="@+id/widget55"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Register"/>
+<Button
+	android:id="@+id/widget56"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Reset" android:layout_weight="1"/>
+</TableRow>
+</TableLayout>
+</LinearLayout>

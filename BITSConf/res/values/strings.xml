@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">BITS Confii</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="description_logo">Demo</string>
+
+    <string name="description_about">About</string>
+    <string name="description_home">Home</string>
+    <string name="description_search">Search</string>
+    <string name="description_feature1">contains Building Map, Campus Map and City Map</string>
+    <string name="description_feature2">contains events schedule and My Schedule</string>
+    <string name="description_feature3">contains list of speakers</string>
+    <string name="description_feature4">contains list of emergency contacts</string>
+    <string name="description_feature5">contains details about local attractions from google places</string>
+    <string name="description_feature6">notifications - time and location based</string>
+
+    <string name="title_about">About</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_feature1">Maps</string>
+    <string name="title_feature2">Schedule</string>
+    <string name="title_feature3">Speakers</string>
+    <string name="title_feature4">Contacts</string>
+    <string name="title_feature5">Local Attractions</string>
+    <string name="title_feature6">Notifications</string>
+
+    <string name="default_intro">This app is exclusively made for Gravitational Waves workshop in BITS Goa</string>
+    <string name="feature1_intro">Maps content goes here.</string>
+    <string name="feature2_intro">Schedule content goes here.</string>
+    <string name="feature3_intro">List of speakers content goes here.</string>
+    <string name="feature4_intro">Emergency contacts content goes here.</string>
+    <string name="feature5_intro">Local attractions goes here.</string>
+    <string name="feature6_intro">Notifications content goes here.</string>
+
+    <string name="about_intro">This app is made for the Gravitational Waves Conference at BITS Goa</string>
+    <string name="search_intro">Content for the Search page goes here.</string>
+
+    
+</resources>

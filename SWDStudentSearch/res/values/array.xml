@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="hostel">
+    <item></item>
+    <item>AH1</item>
+	<item>AH2</item>
+	<item>AH3</item>
+	<item>AH4</item>
+	<item>AH5</item>
+	<item>AH6</item>
+	<item>AH7</item>
+	<item>AH8</item>
+    <item>CH1</item>
+	<item>CH2</item>
+	<item>CH3</item>
+	<item>CH4</item>
+	<item>CH5</item>
+	<item>CH6</item>
+</string-array>    
+
+<string-array name="branch">
+    <item ></item>
+    <item value="C6">INFORMATION SYSTEM</item>
+	<item>Chemical</item>
+	<item>Computer Science</item>
+	<item>Mechanical</item>
+	<item>EEE</item>
+	<item>ENI</item>
+	<item>MSc Bio</item>
+	<item>MSc Chemistry</item>
+    <item>MSc Economics</item>
+	<item>MSc Physics</item>
+	<item>MSc Maths</item>
+	<item>Higher Degree</item>
+</string-array>
+
+</resources>

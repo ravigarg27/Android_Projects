@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SWDStudentSearchActivity!</string>
+    <string name="app_name">SWDStudentSearch</string>
+    <string name="name">Name</string>
+    <string name="id_no">Id No</string>
+    <string name="hostel">Hostel</string>
+    <string name="room_no">Room No</string>
+    <string name="branch">Branch</string>
+    <string name="select_branch">Select Branch</string>
+    <string name="search">Search</string>
+    <string name="select_hostel">Select Hostel</string>
+
+</resources>

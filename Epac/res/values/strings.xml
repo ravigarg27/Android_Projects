@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EpacActivity!</string>
+    <string name="app_name">Epac</string>
+    <string name="hello_and_welcome_to_environment_protection_and_awareness_club_epac_of_bits_pilani_goa_campus">Hello and Welcome to Environment Protection and Awareness Club (EPAC) of BITS Pilani Goa Campus</string>
+    <string name="description">Through promoting and spreading environmental awareness and education, advocating sustainable development, and initiating environmental programming on campus, EPAC seeks to establish BITS as an environmentally positive example for the benefit of the University itself, and the nation at large.  Starting out as a small group of Environment enthusiasts in 2007, it has now become one of the most active and far-reaching clubs of the campus.</string>
+    <string name="view_articles">View Articles</string>
+    <string name="members">Members</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="photo_gallery">Photo Gallery</string>
+    <string name="greenathon_logo">greenathon logo</string>
+    <string name="description_details">Torrider and sultrier summers, harsher winters,soaring pollution levels,sinking islands and what not. \n\nSo many problems but where does the path to a greener planet lie??\n\n \n\nHere\'s a platform for the young minds of Goan schools to congregate and do their part in working for a better tomorrow for our one and only abode, planet EARTH. Be a part of this first of its kind green race at school level. Compete and be coroneted as the school with the highest \'GREEN QUOTIENT\'.\n\nRemember, \'green is cool\'!</string>
+    <string name="event_details">Event Details</string>
+    <string name="rules_desc">\nParticipating schools may choose projects/tasks from the project/task list. All the projects aim at promoting environmental awareness and a caring attitude towards mother earth in the most involving manner.\n\nThe event is spread over a time period of 3 months starting from 1 august, 2012. \n\nThe projects/tasks have credits varying from 1 to 4. The credits shall be rewarded to a particular school on successful completion of the project/task. The cumulative aggregate earned by schools will help to decide the school with the highest ‘Green Quotient’.\nTEAM SPECIFICATIONS: \n\nThere is no cap on the number of students who may form the school team.\n \n \nRegistration deadline: 30 July, 2012</string>
+    <string name="evaluation">Evaluation</string>
+    <string name="eval_desc">The evaluation would be mostly done online. The teams from all schools need to send project reports for every project they wish to be evaluated for. Reports in .doc or .pdf format would be acceptable. Some projects do involve field activity. Therefore, the project reports for such projects should be supplemented by illustrations such as pictures. </string>
+    <string name="name_of_school">Name of School</string>
+    <string name="school_address">School Address</string>
+    <string name="school_phonenumber">School PhoneNumber</string>
+
+</resources>

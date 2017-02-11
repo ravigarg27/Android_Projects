@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Single menu item
+         Set id, icon and Title for each menu item
+    -->
+    <item android:id="@+id/rules"
+          
+          android:title="Event Details" />
+ 
+     <item android:id="@+id/evaluation"
+        
+          android:title="Evaluation" />
+    
+    <item android:id="@+id/projects_list"
+          
+          android:title="Projects List" />
+ 
+    <item android:id="@+id/register"
+          
+          android:title="Register" />
+ 
+    <item android:id="@+id/contact_us"
+        
+          android:title="Contact Us" />
+ 	
+   
+</menu>
